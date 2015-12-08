@@ -21,4 +21,3 @@ function wpmudev_google_analytics() { ?>
 		</script>
 <?php }
 add_action( 'wp_head', 'wpmudev_google_analytics', 10 );
-?>
