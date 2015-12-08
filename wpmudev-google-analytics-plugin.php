@@ -5,9 +5,8 @@ Plugin URI: http://rachelmccollin.com
 Description: Adds a Google analytics trascking code to the <head> of your theme, by hooking to wp_head.
 Author: Rachel McCollin
 Version: 1.0
- */
-?>
-<?php
+*/
+
 // the function to insert the google analytics tracking code
 function wpmudev_google_analytics() { ?>
 	<script>
