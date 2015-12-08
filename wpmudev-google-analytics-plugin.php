@@ -2,7 +2,7 @@
 /*
 Plugin Name: Simple Google Analytics Plugin
 Plugin URI: http://rachelmccollin.com
-Description: Adds a Google analytics trascking code to the <head> of your theme, by hooking to wp_head.
+Description: Adds a Google analytics tracking code to the <head> of your theme, by hooking to wp_head.
 Author: Rachel McCollin
 Version: 1.0
 */
